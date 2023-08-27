@@ -1,3 +1,5 @@
+#(Retail Sales Dashboard)
+
 You can find the Dasboard [Here](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/RetailSales_16930599137140/RetailSalesDataDashboard).
 
 This Dashboard was designed for analyzing Retail Sales Data provided in an Excel Sheet. I attempted to inquire about various aspects, such as:
