@@ -3,7 +3,7 @@
 
 
 
-### **You can find the Dashboard [HERE](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/RetailSales_16930599137140/RetailSalesDataDashboard).**
+### **You can find the interactice Dashboard [HERE](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/RetailSales_16930599137140/RetailSalesDataDashboard).**
 
 This Dashboard was designed for analyzing Retail Sales Data provided in an Excel Sheet. I attempted to inquire about various aspects, such as:
 
