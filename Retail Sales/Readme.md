@@ -1,7 +1,9 @@
 # Retail Sales Dashboard
 <img width="1440" alt="Retail Sales Dashboard" src="https://github.com/Vaiebhav/Data-Visualisation/assets/97014420/31748047-1117-4e34-85b8-a83dcd7c4f38">
 
-You can find the Dasboard [HERE](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/RetailSales_16930599137140/RetailSalesDataDashboard).
+
+
+### **You can find the Dashboard [HERE](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/RetailSales_16930599137140/RetailSalesDataDashboard).**
 
 This Dashboard was designed for analyzing Retail Sales Data provided in an Excel Sheet. I attempted to inquire about various aspects, such as:
 
