@@ -4,4 +4,4 @@
 
 ### **You can find the interactice Dashboard [HERE](https://public.tableau.com/app/profile/vaiebhav.chettri/viz/AirBnbDashboard_16909792722340/Dashboard1?publish=yes).**
 
-This Dashboard was designed for analyzing AirBnB Sales Data provided in an Excel Sheet. I attempted to inquire about various aspects, such as:
+This Dashboard was designed for analyzing AirBnB Sales Data provided in an Excel Sheet. 
